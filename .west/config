@@ -1,0 +1,4 @@
+[manifest]
+path = ble-proximity
+[zephyr]
+base = zephyr
